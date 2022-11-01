@@ -1,0 +1,9 @@
+---
+title: "Nginx Resever Spring Boot"
+author: "Cost King"
+date: "2022-11-01"
+categories: [news, code, analysis]
+image: "deploy-springboot-app-jar-schema.png"
+---
+
+How to setup proxy nginx server to distribute request to spring boot.

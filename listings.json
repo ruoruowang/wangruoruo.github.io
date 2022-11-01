@@ -2,6 +2,7 @@
   {
     "listing": "/index.html",
     "items": [
+      "/posts/nginx-resever-spring-boot/index.html",
       "/posts/post-with-code/index.html",
       "/posts/welcome/index.html"
     ]

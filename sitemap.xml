@@ -1,19 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://github.com/ruoruowang/wangruoruo.github.io/posts/nginx-resever-spring-boot/index.html</loc>
+    <lastmod>2022-11-01T12:56:39.893Z</lastmod>
+  </url>
+  <url>
     <loc>https://github.com/ruoruowang/wangruoruo.github.io/posts/post-with-code/index.html</loc>
-    <lastmod>2022-11-01T12:40:42.934Z</lastmod>
+    <lastmod>2022-11-01T12:56:40.609Z</lastmod>
   </url>
   <url>
     <loc>https://github.com/ruoruowang/wangruoruo.github.io/posts/welcome/index.html</loc>
-    <lastmod>2022-11-01T12:40:43.630Z</lastmod>
+    <lastmod>2022-11-01T12:56:40.961Z</lastmod>
   </url>
   <url>
     <loc>https://github.com/ruoruowang/wangruoruo.github.io/index.html</loc>
-    <lastmod>2022-11-01T12:40:44.010Z</lastmod>
+    <lastmod>2022-11-01T12:56:41.369Z</lastmod>
   </url>
   <url>
     <loc>https://github.com/ruoruowang/wangruoruo.github.io/about.html</loc>
-    <lastmod>2022-11-01T12:40:44.362Z</lastmod>
+    <lastmod>2022-11-01T12:56:41.669Z</lastmod>
   </url>
 </urlset>

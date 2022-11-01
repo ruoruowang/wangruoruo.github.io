@@ -1,5 +1,5 @@
 ---
-title: "wangruoruo.github.io"
+title: "Coast King"
 listing:
   contents: posts
   sort: "date desc"

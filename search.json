@@ -1,12 +1,5 @@
 [
   {
-    "objectID": "posts/nginx-resever-spring-boot/index.html",
-    "href": "posts/nginx-resever-spring-boot/index.html",
-    "title": "Nginx Resever Spring Boot",
-    "section": "",
-    "text": "How to setup proxy nginx server to distribute request to spring boot."
-  },
-  {
     "objectID": "posts/post-with-code/index.html",
     "href": "posts/post-with-code/index.html",
     "title": "Post With Code",

@@ -6,4 +6,6 @@ categories: [news, code, analysis]
 image: "deploy-springboot-app-jar-schema.png"
 ---
 
-How to setup proxy nginx server to distribute request to spring boot.
+# How to setup proxy nginx server to distribute request to spring boot
+
+![](deploy-springboot-app-jar-schema.png)
